@@ -45,7 +45,7 @@ The **Ecological Footprint App** empowers users to reflect on their environmenta
 
 ## **Deployed Application**
 
-Access the live version of the app here: [Ecological Footprint App](https://taupe-lollipop-229e37.netlify.app/)
+Access the live version of the app here: [Ecological Footprint App](https://stackblitz.com/edit/sb1-ztesuwh8)
 
 ---
 
