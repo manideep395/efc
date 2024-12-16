@@ -67,6 +67,18 @@ Access the live version of the app here: [Ecological Footprint App](https://taup
 
 ---
 
+### ScreenShots**
+![Home Page](project/screenshots/home.png)
+![Food Page](project/screenshots/food.png)
+![Housing Page](project/screenshots/house.png)
+![](project/screenshots/housesize.png)
+![](project/screenshots/neighbours.png)
+![Transportation Page](project/screenshots/car.png)
+![](project/screenshots/bike.png)
+![](project/screenshots/fly.png)
+![](project/screenshots/publictransport.png)
+![Result Page](project/screenshots/result.png)
+
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - **Email:** dspraneeth07@gmail.com
