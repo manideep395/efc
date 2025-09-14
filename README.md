@@ -82,7 +82,7 @@ Access the live version of the app here: [Ecological Footprint App](https://efca
 
 ## Contact
 For any inquiries or feedback, feel free to reach out:
-- **Email:** dspraneeth07@gmail.com
+- **Email:** kasireddymanideepreddy405@gmail.com
 ---
 
 _Thank you for exploring the Ecological Footprint App! Together, we can make a positive environmental impact._
